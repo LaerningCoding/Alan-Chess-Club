@@ -90,7 +90,7 @@ nav a:hover {
 .topbanner {
     background-color: #0F1A25;
     color: white;
-    background-image: url("../images/Top.jpg");
+    background-image: url("../Images/Top.jpg");
     position: relative;
     height: 52vw;
     background-repeat: no-repeat; 
@@ -201,7 +201,7 @@ nav a:hover {
 .topbanner2 {
     background-color: #0F1A25;
     color: white;
-    background-image: url("../images/chesspic1.jpg");
+    background-image: url("../Images/chesspic1.jpg");
     position: relative;
     height: 25vw;
     background-repeat: no-repeat; 
@@ -400,4 +400,5 @@ nav a:hover {
     height: 100%;
     border: none;
     border-radius: 1vw 1vw 0vw 0vw;
+
 }
